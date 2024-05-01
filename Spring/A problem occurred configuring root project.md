@@ -9,11 +9,13 @@ intelliJ 첫 설치 후 project를 open 했더니 발생
 Spring boot 3.x 버전은 Java 17 버전부터 지원한다.
 
 ## 해결방법
-(1) Ctrl+Shift+Alt+S를 눌러 SDK를 17로 변경
+(1) 프로젝트 JDK 설정   
+Ctrl+Shift+Alt+S를 눌러 SDK를 17로 변경
 
 ![image](https://github.com/GYUNGAEEEE/Troubleshooting/assets/158580466/83148c1c-a4fd-4f25-9e1b-3f2cea34b167)
 
-(2) File > Settings > Build, Execution, Deployment > Build Tools > Gradle에서 Gradle JVM의 버전을 JAVA 17로 변경
+(2) Gradle JDK 설정   
+File > Settings > Build, Execution, Deployment > Build Tools > Gradle에서 Gradle JVM의 버전을 JAVA 17로 변경
 
 ![image](https://github.com/GYUNGAEEEE/Troubleshooting/assets/158580466/cac116bc-e583-4ec3-ab7a-4332dde8a1fd)
 
