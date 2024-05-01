@@ -1,4 +1,4 @@
-# [Tomcat] Could not load the Tomcat server configuration at \Servers\Tomcat v9.0 Server at localhost-config.md
+# Could not load the Tomcat server configuration at \Servers\Tomcat v9.0 Server at localhost-config.md
 
 ![image](https://github.com/GYUNGAEEEE/Troubleshooting/assets/158580466/0b2499be-3022-4397-9603-559b1a280947)
 
