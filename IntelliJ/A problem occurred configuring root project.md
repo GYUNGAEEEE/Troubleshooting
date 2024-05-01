@@ -13,7 +13,7 @@ Spring boot 3.x 버전은 Java 17 버전부터 지원한다.
 
 ![image](https://github.com/GYUNGAEEEE/Troubleshooting/assets/158580466/83148c1c-a4fd-4f25-9e1b-3f2cea34b167)
 
-(2) Settings > Build, Execution, Deployment > Build Tools > Gradle에서 Gradle JVM의 버전을 JAVA 17로 변경
+(2) File > Settings > Build, Execution, Deployment > Build Tools > Gradle에서 Gradle JVM의 버전을 JAVA 17로 변경
 
 ![image](https://github.com/GYUNGAEEEE/Troubleshooting/assets/158580466/cac116bc-e583-4ec3-ab7a-4332dde8a1fd)
 
