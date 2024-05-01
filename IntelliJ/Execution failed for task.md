@@ -12,3 +12,6 @@ File > Settings > Build, Execution, Deployment > Build Tools > Gradle에서 'Bui
 Gradle에서 IntelliJ IDEA로 변경
 
 ![image](https://github.com/GYUNGAEEEE/Troubleshooting/assets/158580466/b8bb642d-dbd3-4263-b5d4-e2444a932d14)
+
+> 최근 IntelliJ 버전은 Gradle을 통해서 실행하는 것이 기본 설정이다. 이렇게 하면 실행속도가 느리다.
+> 이와 같이 변경하여 자바로 바로 실행해서 실행속도가 더 빠르다.
