@@ -12,7 +12,7 @@ APPLICATION FAILED TO START
 ```
 > netstat -ano | findstr 8080
 ```
-(2) 프로세스의 PID를 확인한 후, 해당 프로세스를 종료한다.
+(2) 프로세스의 PID를 확인한 후, 해당 프로세스를 종료한다. (여기서는 4128)
 ```
 > taskkill /pid 4128 /f
 ```
